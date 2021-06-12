@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🌱 I’m currently learning **Laravel , Flutter**
 
-- 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
+- 👨‍💻 You can also check out my portfolio 
 
 - 📫 How to reach me **nandakumarnk077@gmail.com**
 
